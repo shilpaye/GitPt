@@ -1,0 +1,15 @@
+ create employee table
+   (
+    employee_id int,
+    employee_name varchar(20),
+    salary int,
+    location varchar(20)
+)
+
+insert into employee (employee_id,employee_name,salary,location)values(100,"Jhon",5000,"Sunny vale")
+insert into employee (employee_id,employee_name,salary,location)values(101,"Mary",6000,"Saratoga")
+insert into employee (employee_id,employee_name,salary,location)values(102,"Nancy",5500,"Sunny vale")
+insert into employee (employee_id,employee_name,salary,location)values(103,"Julia",6000,"Lawrence")
+
+ 
+    
