@@ -10,6 +10,8 @@ insert into employee (employee_id,employee_name,salary,location)values(100,"Jhon
 insert into employee (employee_id,employee_name,salary,location)values(101,"Mary",6000,"Saratoga")
 insert into employee (employee_id,employee_name,salary,location)values(102,"Nancy",5500,"Sunny vale")
 insert into employee (employee_id,employee_name,salary,location)values(103,"Julia",6000,"Lawrence")
+
 insert into employee (employee_id,employee_name,salary,location)values(104,"Martin",6500,"Santa Rita")
  
+insert into employee (employee_id,employee_name,salary,location)values(105,"Martinluther",7500,"Santa ramon")
     
